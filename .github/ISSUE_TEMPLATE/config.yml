@@ -3,6 +3,9 @@ contact_links:
   - name: "#moep IRC channel on irc.spi.gt"
     url: "https://kiwiirc.com/client/irc.spi.gt/#moep"
     about: My public IRC channel to discuss any of my projects
+  - name: "Phoenix616's Discord"
+    url: "https://phoenix616.dev/discord"
+    about: The discord server for all my stuff. Bridged to IRC.
   - name: SpigotMC PM
     url: https://www.spigotmc.org/conversations/add?to=Phoenix616&title=Question
     about: Ask me questions privately
