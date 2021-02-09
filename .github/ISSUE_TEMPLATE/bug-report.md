@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 #### Used Version
-<!-- The full program version like it is printed in the log -->
+<!-- The full program version like it is printed in the log. Please check if there are any newer development builds! Can usually be found at https://ci.minebench.de -->
  
  
 #### Config
