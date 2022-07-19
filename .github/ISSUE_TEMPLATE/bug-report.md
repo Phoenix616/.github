@@ -15,10 +15,12 @@ assignees: ''
 <details>
           <summary>Config</summary>
 <!-- The full config file -->
+
  ```yaml
  [Put the config here]
  ```
- </details>
+ 
+</details>
  
 #### Environment description
 <!-- Information like the operating system and language as well as full server version if you are using a plugin-->
@@ -28,9 +30,11 @@ assignees: ''
 <details>
           <summary>Log</summary>
 <!-- The full log file, especially important if you have a stack trace -->
+
 ```
 [Your log here]
 ```
+
 </details>
 
 #### What other programs/plugins are you running?
