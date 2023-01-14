@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
-  - name: "#general IRC channel on irc.phoenix616.dev"
-    url: "https://kiwiirc.com/client/irc.phoenix616.dev/#general"
+  - name: "#phoenix616 IRC channel on irc.esper.net"
+    url: "https://irc.phoenix616.dev"
     about: My public IRC channel to discuss any of my projects
   - name: "Phoenix616's Discord"
     url: "https://phoenix616.dev/discord"
