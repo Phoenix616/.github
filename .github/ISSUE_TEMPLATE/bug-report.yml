@@ -1,0 +1,75 @@
+name: Bug report
+description: Report an error that happens in the plugin.
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Please check if there are already similar issues open!
+        Please also check if there are any newer development builds! They can usually be found at https://ci.minebench.de
+
+  - type: textarea
+    attributes:
+      label: What is happening?
+      description: Explain what happens and what steps should be done to reproduce the issue. Ideally with pictures and the full error log!
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: What did you expect to happen?
+      description: Explain what you expected to happen after performing the previously described steps
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Version
+      description: The full version that you are running
+    validations:
+      required: true
+      
+  - type: textarea
+    attributes:
+      label: Config
+      description: The full config file
+      render: YAML
+      value: |
+         [Put the config here]
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Server/system Version
+      description: The full server/system version
+    validations:
+      required: true
+      
+  - type: textarea
+    attributes:
+      label: Log
+      description: The full log file, especially important if you have a stack trace
+      render: shell
+      value: |
+          [Put your log here]
+    validations:
+      required: true
+      
+  - type: textarea
+    attributes:
+      label: What other programs/plugins are you running?
+      description: List of your programs and plugins, ideally with the version
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: Add any other context or screenshots about the feature request here.
+      
+  - type: markdown
+    attributes:
+      value: >
+        If you want to provide me with an additional incentive please take a look at my [commissions on Ko-fi](https://ko-fi.com/phoenix616/commissions).
+
